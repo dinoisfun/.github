@@ -1,5 +1,5 @@
 # dinoisfun
-hello there, and welcome to the official repository of dinoisfun. i don't know why you are here but whatever you are here for, please help me with my messy code :skull: lmao
+Welcome to the official GitHub Open Source organization of dinoisfun.
 
-# [dinois.fun](https://www.dinois.fun)
-website ^^
+## [dinoisfun Website](https://dinois.fun/)
+Or, if it's blocked, try [this website](https://dinoisfun.pages.dev)
